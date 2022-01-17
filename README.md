@@ -1,2 +1,4 @@
 # hello-world
 For my software engineering course
+# About me
+My name is Henry. My favorite color is green. I currently do not have a favorite programming language, but I like each language more and more as I use them and figure out how to unlock their true, boundless power. After all, why use Java unless you have a unique reason or unless it's a hard requirement? There are plenty of reasons to use Java, from custom security contexts to very native multithreading support, and exception handling is customizable and packaged in. However, there are things equally as cool for other languages, otherwise they would not have been created. And we use those programming languages to, in a way, change our fate. After all, you might be able to rescue someone at a pool if you could load your social media faster!
